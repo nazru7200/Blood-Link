@@ -183,15 +183,9 @@ Flutter Developer | AI & Machine Learning Engineering Student
 - **GitHub:** [nazru7200](https://github.com/nazru7200)
 - **LinkedIn:** [A. Nazru Deen](https://www.linkedin.com/in/nazrudeen-72008-9255ph/)
 
-**Development:** Individual project developed by A. Nazru Deen.
+## License
 
-## 📂 Repository
-
-[https://github.com/nazru7200/Blood-Link](https://github.com/nazru7200/Blood-Link)
-
-## 📄 License
-
-No open-source license has been specified yet. Add a suitable license if you intend to permit others to reuse, modify, or distribute the project.
+This project is licensed under the MIT License.
 
 ---
 
