@@ -1,0 +1,39 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "blood-link-de20c",
+          "appId": "1:698669748856:android:41385658b4c4d9d60a538d",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "blood-link-de20c",
+          "configurations": {
+            "android": "1:698669748856:android:41385658b4c4d9d60a538d",
+            "ios": "1:698669748856:ios:323a3b8739a0794d0a538d",
+            "macos": "1:698669748856:ios:323a3b8739a0794d0a538d",
+            "web": "1:698669748856:web:d506000aba5482720a538d",
+            "windows": "1:698669748856:web:ceceb36fdb676b4a0a538d"
+          }
+        }
+      }
+    }
+  },
+  "functions": [
+    {
+      "source": "functions",
+      "codebase": "default",
+      "disallowLegacyRuntimeConfig": true,
+      "ignore": [
+        "node_modules",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log",
+        "*.local"
+      ]
+    }
+  ]
+}
